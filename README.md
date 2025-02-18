@@ -41,6 +41,7 @@
 
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)&nbsp;
 ![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)&nbsp;
+![Google Chrome](https://img.shields.io/badge/Website-4285F4?logo=GoogleChrome&logoColor=white)
 
 
 ### 📫 &nbsp; How to reach me:
