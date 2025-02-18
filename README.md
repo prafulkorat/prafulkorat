@@ -30,16 +30,22 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)&nbsp;
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)&nbsp;
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)&nbsp;
-![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
+![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)&nbsp;
+
+
+### 🛒 &nbsp;App Stores
+
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)&nbsp;
+![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)&nbsp;
+
 
 ### 📫 &nbsp; How to reach me:
 
 
 <a href="https://www.linkedin.com/in/kp-android/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a> &nbsp;
-<a href="https://stackoverflow.com/users/12142021/praful-korat"><img alt="LinkedIn" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"/></a> &nbsp;
+<a href="https://stackoverflow.com/users/12142021/praful-korat"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"/></a> &nbsp;
 <a href="mailto:prafulkorat0908@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://prafulkorat.netlify.app"><img alt="Portfolio" src="https://img.shields.io/Portfolio-up-down-green-red/https/prafulkorat.netlify.app.svg" /></a> &nbsp;
