@@ -4,7 +4,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I'm a software developer currently focused on developing mobile apps (Andorid & iOS) using flutter.\
+💻 &nbsp;I'm a software developer currently focused on developing mobile apps (Andorid & iOS & Web) using flutter.\
 🌱 &nbsp;I'm on track for learn more about mobile development especially on flutter.\
 📄 &nbsp;For more info **resume** please contact me Thank You.
 
